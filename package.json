@@ -1,0 +1,22 @@
+{
+  "name": "dataloader-wrapper",
+  "version": "1.0.0",
+  "description": "dataloader-wrapper is created to help pass multiples parameters to dataloader on resolver.",
+  "main": "index.ts",
+  "script": {
+    "test": "node test.ts"
+  },
+  "author": "Varachit Wirunpat",
+  "keywords": [
+    "grpahql",
+    "dataloader"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.40",
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "dataloader": "^2.1.0"
+  }
+}
